@@ -1,0 +1,341 @@
+{
+  "category": [
+    {
+      "category_name": "fashion",
+      "id": 5
+    },
+    {
+      "category_name": "furniture",
+      "id": 6
+    },
+    {
+      "category_name": "eletronics",
+      "id": 7
+    }
+  ],
+  "slider": [
+    {
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/marketplace/home-slider/1.jpg",
+      "id": 1
+    },
+    {
+      "image": " https://themes.pixelstrap.com/multikart/assets/images/marketplace/home-slider/2.jpg",
+      "id": 2
+    },
+    {
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/marketplace/banner/14.jpg",
+      "id": 3
+    },
+    {
+      "category": "adfasf",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "Nensi ",
+      "email": "nensivithalani@gmail.com",
+      "lastname": "vithalani",
+      "password": "111111",
+      "id": 1,
+      "role": "admin"
+    },
+    {
+      "name": "shyam",
+      "email": "shyamkariya@gmail.com",
+      "lastname": "shyam kariya",
+      "password": "123456",
+      "id": 2,
+      "role": "user"
+    }
+  ],
+  "product": [
+    {
+      "id": 4,
+      "name": "Shoes",
+      "price": 1900,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/marketplace/pro/45.jpg",
+      "status": "instock",
+      "category": "fashion",
+      "qty": 1,
+      "marketstatus": "upcomming"
+    },
+    {
+      "id": 5,
+      "name": "Powerbank",
+      "price": 2000,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/marketplace/pro/3.jpg",
+      "status": "instock",
+      "category": "eletronics",
+      "qty": 1,
+      "marketstatus": "latest"
+    },
+    {
+      "id": 6,
+      "name": "Beauty pack",
+      "price": 1000,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/marketplace/pro/4.jpg",
+      "status": "instock",
+      "category": "fashion",
+      "qty": 1,
+      "marketstatus": "upcomming"
+    },
+    {
+      "id": 7,
+      "name": "Wifi-Router",
+      "price": 3000,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/marketplace/pro/46.jpg",
+      "status": "instock",
+      "category": "eletronics",
+      "qty": 1,
+      "marketstatus": "best"
+    },
+    {
+      "id": 8,
+      "name": "Black Hoodie",
+      "price": 700,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/marketplace/pro/14.jpg",
+      "status": "instock",
+      "category": "fashion",
+      "qty": 1,
+      "marketstatus": "latest"
+    },
+    {
+      "id": 9,
+      "name": "Bluetooth Earphone",
+      "price": 1500,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/marketplace/pro/49.jpg",
+      "status": "instock",
+      "category": "eletronics",
+      "qty": 1,
+      "marketstatus": "trending"
+    },
+    {
+      "id": 10,
+      "name": "Gallant Dumbbell Set",
+      "price": 2400,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/marketplace/pro/19.jpg",
+      "status": "instock",
+      "category": "fashion",
+      "qty": 1,
+      "marketstatus": "best"
+    },
+    {
+      "id": 11,
+      "name": "Man t-shirt",
+      "price": 400,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/marketplace/pro/16.jpg",
+      "status": "instock",
+      "category": "fashion",
+      "qty": 1,
+      "marketstatus": "upcomming"
+    },
+    {
+      "id": 12,
+      "name": "Apple TV wifi",
+      "price": 12000,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/marketplace/pro/50.jpg",
+      "status": "instock",
+      "category": "eletronics",
+      "qty": 1,
+      "marketstatus": "best"
+    },
+    {
+      "id": 13,
+      "name": "Arm Chair Walnut Leg",
+      "price": 2800,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/furniture/7.png",
+      "status": "instock",
+      "category": "furniture",
+      "qty": 1,
+      "marketstatus": "trending"
+    },
+    {
+      "id": 14,
+      "name": "Wooden Bar Stool",
+      "price": 1800,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/furniture/9.png",
+      "status": "instock",
+      "category": "furniture",
+      "qty": 1,
+      "marketstatus": "best"
+    },
+    {
+      "id": 15,
+      "name": "Round Wicker Chair",
+      "price": 1500,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/furniture/10.png",
+      "status": "instock",
+      "category": "furniture",
+      "qty": 1,
+      "marketstatus": "trending"
+    },
+    {
+      "id": 16,
+      "name": "Modern Arm Chair",
+      "price": 1900,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/furniture/8.png",
+      "status": "instock",
+      "category": "furniture",
+      "qty": 1,
+      "marketstatus": "latest"
+    },
+    {
+      "id": 17,
+      "name": "Rounded Seating Stool",
+      "price": 2900,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/furniture/11.png",
+      "status": "instock",
+      "category": "furniture",
+      "qty": 1,
+      "marketstatus": "upcomming"
+    },
+    {
+      "id": 18,
+      "name": "white Arm Chair",
+      "price": 2900,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/furniture/12.png",
+      "status": "instock",
+      "category": "furniture",
+      "qty": 1,
+      "marketstatus": "upcomming"
+    },
+    {
+      "id": 19,
+      "name": "Gray Arm Chair",
+      "price": 2800,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/furniture/13.png",
+      "status": "instock",
+      "category": "furniture",
+      "qty": 1,
+      "marketstatus": "upcomming"
+    },
+    {
+      "id": 20,
+      "name": "Pink Rounded Arm Chair",
+      "price": 2900,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/furniture/14.png",
+      "status": "instock",
+      "category": "furniture",
+      "qty": 1,
+      "marketstatus": "upcomming"
+    },
+    {
+      "id": 21,
+      "name": "Yellow  Arm Chair",
+      "price": 4200,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/furniture/15.png",
+      "status": "instock",
+      "category": "furniture",
+      "qty": 1,
+      "marketstatus": "trending"
+    },
+    {
+      "name": "laptop",
+      "price": "21000",
+      "qty": "1",
+      "desc": "",
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/marketplace/pro/2.jpg",
+      "category": "eletronics",
+      "marketstatus": "trending",
+      "status": "instock",
+      "id": 22
+    },
+    {
+      "name": "Apple phone",
+      "price": "21999",
+      "qty": "1",
+      "desc": "",
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/marketplace/pro/1.jpg",
+      "category": "eletronics",
+      "marketstatus": "upcomming",
+      "status": "instock",
+      "id": 23
+    },
+    {
+      "name": "Virtual reality headset",
+      "price": "3600",
+      "qty": "1",
+      "desc": "",
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/marketplace/pro/43.jpg",
+      "category": "eletronics",
+      "marketstatus": "trending",
+      "status": "instock",
+      "id": 24
+    }
+  ],
+  "carts": [
+    {
+      "name": "Black Hoodie",
+      "price": 700,
+      "qty": 1,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/marketplace/pro/14.jpg",
+      "category": "fashion",
+      "userId": 2,
+      "id": 10
+    },
+    {
+      "name": "Powerbank",
+      "price": 2000,
+      "qty": 6,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/marketplace/pro/3.jpg",
+      "category": "eletronics",
+      "userId": 1,
+      "id": 14
+    },
+    {
+      "name": "Pink Rounded Arm Chair",
+      "price": 2900,
+      "qty": 1,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/furniture/14.png",
+      "category": "furniture",
+      "userId": 1,
+      "id": 16
+    },
+    {
+      "name": "Shoes",
+      "price": 1900,
+      "qty": 5,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/marketplace/pro/45.jpg",
+      "category": "fashion",
+      "userId": 1,
+      "id": 17
+    },
+    {
+      "name": "Shoes",
+      "price": 1900,
+      "qty": 1,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/marketplace/pro/45.jpg",
+      "category": "fashion",
+      "userId": 1,
+      "id": 18
+    },
+    {
+      "name": "Pink Rounded Arm Chair",
+      "price": 2900,
+      "qty": 1,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/furniture/14.png",
+      "category": "furniture",
+      "userId": 1,
+      "id": 19
+    }
+  ],
+  "contacts": [
+    {
+      "name": "aSCSSC S",
+      "email": "ccsCsscs",
+      "lastname": "cs SSC",
+      "message": "vdz",
+      "phone": "cvsa",
+      "id": 1
+    },
+    {
+      "name": "shruti",
+      "email": "shruti",
+      "lastname": "shruti",
+      "message": "shruti",
+      "phone": "159864532",
+      "id": 2
+    }
+  ]
+}
