@@ -25,10 +25,6 @@
     {
       "image": "https://themes.pixelstrap.com/multikart/assets/images/marketplace/banner/14.jpg",
       "id": 3
-    },
-    {
-      "category": "adfasf",
-      "id": 4
     }
   ],
   "users": [
@@ -318,6 +314,15 @@
       "category": "furniture",
       "userId": 1,
       "id": 19
+    },
+    {
+      "name": "Wifi-Router",
+      "price": 3000,
+      "qty": 1,
+      "image": "https://themes.pixelstrap.com/multikart/assets/images/marketplace/pro/46.jpg",
+      "category": "eletronics",
+      "userId": 1,
+      "id": 20
     }
   ],
   "contacts": [

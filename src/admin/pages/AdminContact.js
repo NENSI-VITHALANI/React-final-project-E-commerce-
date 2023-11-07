@@ -104,50 +104,7 @@ const AdminContact = () => {
 </div>
 
 </div>
-        <center>
-        <h1 className='my-3'>Welcome To User Contact Detail</h1>
-         <div className="ps-5 col-lg-12 pt-2">
-            <div style={{ boxShadow: '3px 3px 5px 6px #ccc' }} className="mt-3 p-4">
-                <h3 className="text-center my-4">Contact Detail</h3>
 
-                <table className="table table-hover">
-                    <thead>
-                        <tr>
-                            <th scope="col">Id</th>
-                            <th scope="col">Name</th>
-                            <th scope="col">Last Name</th>
-                            <th scope="col">Email</th>
-                            <th scope="col">Phone</th>
-                            <th scope="col">Action</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {
-                        
-                            contact.map((val) => {
-                                return (
-                                    <tr>
-                                        <td>{val.id}</td>
-                                        <td>{val.name}</td>
-                                        <td>{val.lastname}</td>
-                                        <td>{val.email}</td>
-                                        <td>{val.phone}</td>
-                                        <td><button onClick={()=>deleteData(val.id)}>Delete</button></td>
-                                    </tr>
-                                )
-                            })
-                        }
-
-                    </tbody>
-                </table>
-
-
-            </div>
-
-          
-           
-        </div>
-        </center>
     </div>
   )
 }

@@ -126,7 +126,7 @@ const Product = () => {
                 <div className="row">
 
                     <div className='col-lg-3'>
-                        <h5>Category Filter</h5>
+                        <h3 className='fw-medium text-dark'>Category Filter</h3>
                         <hr />
                         <div className="card p-3" style={{ width: '18rem' }}>
                             {
@@ -142,7 +142,7 @@ const Product = () => {
 
                         </div>
 
-                        <h5>Price Wise Filter</h5>
+                        <h3 className='text-dark fw-medium'>Price Wise Filter</h3>
                         <hr />
                         <div className="card p-3" style={{ width: '18rem' }}>
                             {
@@ -154,7 +154,7 @@ const Product = () => {
                             }
                         </div>
 
-                        <h5>marketstatus</h5>
+                        <h3 className='text-dark fw-medium'>Marketstatus</h3>
                         <hr />
                         <div className="card p-3" style={{ width: '18rem' }}>
                        {

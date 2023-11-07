@@ -79,9 +79,9 @@ const Login = () => {
       <div className="col-lg-6 right-login">
         <h3>New Customer</h3>
         <div className="theme-card authentication-right">
-          <h6 className="title-font">Create A Account</h6>
+          <h6 className="title-font ">Create A Account</h6>
           <p>Sign up for a free account at our store. Registration is quick and easy. It allows you to be
-            able to order from our shop. To start shopping click register.</p><div className="btn btn-solid"> <NavLink to='/register'>Create an Account</NavLink></div>
+            able to order from our shop. To start shopping click register.</p><div className="btn btn-solid"> <NavLink to='/register' className="text-white">Create an Account</NavLink></div>
         </div>
       </div>
     </div>
